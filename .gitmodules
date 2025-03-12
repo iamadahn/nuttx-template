@@ -1,0 +1,8 @@
+[submodule "nuttx"]
+	path = nuttx
+	url = https://github.com/apache/nuttx
+	branch = releases/12.9
+[submodule "nuttx-apps"]
+	path = nuttx-apps
+	url = https://github.com/apache/nuttx-apps
+	branch = releases/12.9

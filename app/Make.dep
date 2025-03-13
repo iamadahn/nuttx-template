@@ -1,0 +1,62 @@
+# Gen Make.dep automatically
+custom_app_main.c.home.adahn.projects.nuttx-template.app.o: \
+ custom_app_main.c \
+ /home/adahn/projects/nuttx-template/nuttx/include/stdio.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/config.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/sys/types.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/compiler.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/stdint.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/arch/types.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/arch/inttypes.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/limits.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/arch/limits.h \
+ /usr/lib/gcc/arm-none-eabi/14.2.0/include/stdarg.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/time.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/fs/fs.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/fs/ioctl.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/stdbool.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/serial/tioctl.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/fs/uio.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/sys/uio.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/dirent.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/atomic.h \
+ /usr/lib/gcc/arm-none-eabi/14.2.0/include/stdatomic.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/mutex.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/assert.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/semaphore.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/errno.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/semaphore.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/queue.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/clock.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/lib/math32.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/inttypes.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/stddef.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/strings.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/string.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/alloca.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/mm/map.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/mm/gran.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/spawn.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/spawn.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/sched.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/signal.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/irq.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/arch/irq.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/arch/syscall.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/arch/chip/irq.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/arch/stm32/chip.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/arch/stm32/stm32f10xxx_irq.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/arch/armv7-m/irq.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/arch/armv7-m/nvicpri.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/arch/chip/chip.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/spinlock_type.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/lib/lib.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/kmalloc.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/stdlib.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/mm/mm.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/nuttx/userspace.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/pthread.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/unistd.h \
+ /home/adahn/projects/nuttx-template/nuttx/include/malloc.h
+# No files specified for dependency generation
+# No files specified for dependency generation

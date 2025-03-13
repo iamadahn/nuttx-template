@@ -1,0 +1,13 @@
+if(CONFIG_CUSTOM_APP)
+  nuttx_add_application(
+    NAME
+    ${CONFIG_REWINDER_APP_PROGNAME}
+    PRIORITY
+    ${CONFIG_REWINDER_APP_PRIORITY}
+    STACKSIZE
+    ${CONFIG_REWINDER_APP_STACKSIZE}
+    MODULE
+    ${CONFIG_REWINDER_APP}
+    SRCS
+    custom_app_main.c)
+endif()
